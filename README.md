@@ -1,4 +1,4 @@
 # Files
 Arquivos de desenvolvimento
 
-Este projeto está participando do Hacktoberfest 2020
+Este projeto está participando do Hacktoberfest 2024
